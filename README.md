@@ -17,7 +17,7 @@ Tracking seals in underwater videos without labeled data.
 ## Example Results
 
 ### Guided SAM vs Unguided
-![Guided](results/sam_guided/example.png)
+![Guided SAM vs Unguided](results/Guided SAM vs Unguided/Guided SAM vs Unguided.png)
 
 ### Euclidean Localization
-![Euclidean](results/euclidean/example.png)
+![Euclidean](results/euclidean/Euclidean.png)
