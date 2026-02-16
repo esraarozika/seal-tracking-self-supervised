@@ -14,5 +14,10 @@ Tracking seals in underwater videos without labeled data.
 - Cosine similarity improved alignment but was fragmented.
 - Guided SAM reduced background noise significantly.
 
-## Results
-See example outputs in the `results/` folder.
+## Example Results
+
+### Guided SAM vs Unguided
+![Guided](results/sam_guided/example.png)
+
+### Euclidean Localization
+![Euclidean](results/euclidean/example.png)
