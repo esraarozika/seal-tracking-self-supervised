@@ -1,4 +1,5 @@
 # Seal Tracking using DINOv3 and SAM
+Self-supervised seal tracking pipeline using DINOv3 dense embeddings and SAM segmentation on underwater video sequences.
 
 ## Problem
 Tracking seals in underwater videos without labeled data.
